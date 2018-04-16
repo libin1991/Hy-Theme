@@ -547,7 +547,7 @@
       "name": "Java Imports",
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#7FA1BE"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -632,7 +632,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#7FA1BE"
+        "foreground": "#abb2bf"
       }
     },
     {
