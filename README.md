@@ -26,6 +26,8 @@ Also you can get it for free in the [Visual Studio Code Marketplace](https://mar
 
 ![ScreenShot](https://raw.githubusercontent.com/jkchao/Hy-Theme/master/screenshot/screenshot_5.png)
 
+![ScreenShot](https://raw.githubusercontent.com/jkchao/Hy-Theme/master/screenshot/screenshot_7.png)
+
 ## What's new ?
 
 Click here to go to the [Changelog](https://github.com/jkchao/Hy-Theme/blob/master/CHANGELOG.md).
@@ -36,4 +38,8 @@ You can customize the colors to your liking, overriding the theme in your "setti
 
 ![ScreenShot](https://raw.githubusercontent.com/jkchao/Hy-Theme/master/screenshot/screenshot_6.jpeg)
 
-More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
+
+## License
+
+MIT
