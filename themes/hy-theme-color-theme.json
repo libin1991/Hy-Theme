@@ -923,7 +923,7 @@
       "scope":
         "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#7FA1BE"
       }
     },
     {
@@ -958,7 +958,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded, variable.interpolation",
       "settings": {
-        "foreground": "#BE4F44"
+        "foreground": "#7FA1BE"
       }
     },
     {
