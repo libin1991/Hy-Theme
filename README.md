@@ -9,7 +9,7 @@ A theme for VScode.
 Press ctr/command + shift + p to launch the command palette then run:
 
 ```javascript
-ext install ty-theme
+ext install hy-theme
 ```
 
 Also you can get it for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jkchao.hy-theme).
