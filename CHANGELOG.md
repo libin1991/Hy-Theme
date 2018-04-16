@@ -1,5 +1,5 @@
 # Change Log
 
-## 0.0.2
+## 1.0.0
 
-Update some colors.
+The first release.
