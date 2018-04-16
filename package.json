@@ -1,9 +1,13 @@
 {
-    "name": "iy-theme",
-    "displayName": "Iy-theme",
-    "description": "A VScode theme",
+    "name": "hy-theme",
+    "displayName": "hy-theme",
+    "description": "A VSCode Theme",
     "version": "0.0.1",
     "publisher": "jkchao",
+	"galleryBanner": {
+		"color": "#282C34",
+		"theme": "dark"
+	},
     "engines": {
         "vscode": "^1.22.0"
     },
@@ -13,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Iy Theme",
+                "label": "Hy Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/iy-theme-color-theme.json"
+                "path": "./themes/hy-theme-color-theme.json"
             }
         ]
     }
