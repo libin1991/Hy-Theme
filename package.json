@@ -1,0 +1,22 @@
+{
+    "name": "iy-theme",
+    "displayName": "Iy-theme",
+    "description": "A VScode theme",
+    "version": "0.0.1",
+    "publisher": "jkchao",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Iy Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/iy-theme-color-theme.json"
+            }
+        ]
+    }
+}
