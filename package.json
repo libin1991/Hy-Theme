@@ -1,26 +1,40 @@
 {
-    "name": "hy-theme",
-    "displayName": "hy-theme",
-    "description": "A VSCode Theme",
-    "version": "0.0.1",
-    "publisher": "jkchao",
-	"galleryBanner": {
-		"color": "#282C34",
-		"theme": "dark"
-	},
-    "engines": {
-        "vscode": "^1.22.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hy Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hy-theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "hy-theme",
+  "displayName": "hy-theme",
+  "description": "A VSCode Theme",
+  "version": "0.0.1",
+  "publisher": "jkchao",
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hy-theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkchao/Hy-Theme.git"
+  },
+  "keywords": [
+    "theme",
+    "vscode"
+  ],
+  "author": "jkchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkchao/Hy-Theme/issues"
+  },
+  "homepage": "https://github.com/jkchao/Hy-Theme#readme"
 }
